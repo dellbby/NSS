@@ -21,3 +21,5 @@ else
 	generate
 fi
 
+Due to the popularity of Kelly Park, it is normal to service a high volume of visitors during the summer months and on holidays. You may also experience traffic congestion due to the popularity of the park. Frequently, the park is filled to capacity by mid-morning, and unfortunately guests must be turned away at the entry. Once the park is closed, there can be no admittance even if a member of your party is waiting within the park; Kelly Park may reopen later in the day if capacity allows. We apologize for this inconvenience; please appreciate that any Park closure is meant to ensure a safe and pleasant experience for all our guests.
+
