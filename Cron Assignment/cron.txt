@@ -1,0 +1,9 @@
+0 8 * * * touch /Users/Dellbby/Desktop/cron/start/File
+1 8 * * * mv /Users/Dellbby/Desktop/cron/start/File /Users/Dellbby/Desktop/cron/destination/
+2 8 * * * rm /Users/Dellbby/Desktop/cron/destination/File
+
+This crontab schedules to create a file named "File" within /Users/Dellbby/Desktop/cron/start/ at 8:00 AM of every day of the month, every month and every day of the week.
+
+The following minute at 8:01 AM, "File" is moved with the command "mv" to /Users/Dellbby/Desktop/cron/destination/
+
+And the following minute at 8:02 AM, "File" is deleted with the command "rm".
